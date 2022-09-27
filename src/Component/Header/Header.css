@@ -1,0 +1,25 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px 0 140px;
+}
+
+.header a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Lato';
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    margin-left: 36px;
+}
+
+.header a:hover{
+    color: lime ;
+    font-size : 18px;
+    margin-left: 33px;
+
+}
